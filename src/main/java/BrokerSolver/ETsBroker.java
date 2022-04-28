@@ -31,7 +31,7 @@ import oms3.annotations.Unit;
 import computeStressedETs.*;
 @Description("This class is used to connect the Richard model with the evapotranspiration model, calculating the evapotranspiration for each control volume.")
 @Documentation("")
-@Author(name = "Concetta D'Amato", contact = "concetta.damato@unitn.it")
+@Author(name = "Concetta D'Amato", contact = "concettadamato94@gmail.com")
 
 
 public class ETsBroker {
